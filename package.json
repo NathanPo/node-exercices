@@ -1,6 +1,6 @@
 {
   "name": "podesta-my-exercises",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "exercises",
   "main": "index.js",
   "type": "module",
