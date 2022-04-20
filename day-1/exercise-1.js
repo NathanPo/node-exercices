@@ -6,5 +6,3 @@ export const my_display_alpha = () => {
     }
     return orderedAlpha;
 };
-
-console.log(my_display_alpha());

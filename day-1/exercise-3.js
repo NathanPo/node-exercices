@@ -4,5 +4,3 @@ export const my_alpha_number = (a) => {
     }
     return 0;
 };
-
-console.log(my_alpha_number(13245466));
