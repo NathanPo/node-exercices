@@ -4,6 +4,8 @@ import { my_display_alpha_reverse } from "../day-1/exercise-2.js";
 import { my_size_alpha } from "../day-1/exercise-4.js";
 import { my_array_alpha } from "../day-1/exercise-5.js";
 import { my_length_array } from "../day-1/exercise-6.js";
+import { my_is_posi_neg } from "../day-1/exercise-7.js";
+
 
 import assert from 'assert'
 
@@ -92,3 +94,12 @@ describe("exercise 6", function () {
     });
   });
 });
+
+describe("exercise 7", function () {
+  describe("try display alpha", function () {
+    it("should return the arg as an array", function () {
+      assert.equal(my_is_posi_neg(-1), "NEGATIF");
+    });
+  });
+});
+
