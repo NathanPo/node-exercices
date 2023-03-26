@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NathanPo/podesta-my-exercises"
+    "url": "https://github.com/NathanPo/node-exercises"
   },
   "keywords": [
     "epita"
   ],
-  "author": "Nathan Podesta",
+  "author": "Nobody",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^9.2.2"
